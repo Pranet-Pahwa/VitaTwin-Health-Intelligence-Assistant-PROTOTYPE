@@ -1,0 +1,287 @@
+[
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 20:38:02",
+        "prediction": "Low Risk",
+        "risk_score": 0.41,
+        "confidence": 0.59,
+        "patient_inputs": {
+            "age": 37,
+            "bmi": 29.0,
+            "blood_pressure": 130,
+            "glucose": 113,
+            "cholesterol": 195,
+            "activity_level": 2,
+            "sleep_hours": 8.0,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by low physical activity, high stress level.",
+        "insight": "\n### AI Health Intelligence Report\n\nThe user is classified as **Low Risk** with a risk score of **41.00%**.\n\n### Main Risk Drivers\nThe most important detected factors are: **low physical activity, high stress level**.\n\n### Personalized Prevention Focus\n- Increase daily movement gradually, starting with light walking.\n- Add stress-control habits like breathing breaks, journaling, or structured rest.\n\n### Digital Twin Interpretation\nThis health snapshot should be stored as a Digital Health Twin timeline event. Future readings can be compared against this record to detect whether the user\u2019s risk is improving, worsening, or remaining stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 20:41:42",
+        "prediction": "Low Risk",
+        "risk_score": 0.12,
+        "confidence": 0.88,
+        "patient_inputs": {
+            "age": 39,
+            "bmi": 28.0,
+            "blood_pressure": 127,
+            "glucose": 124,
+            "cholesterol": 193,
+            "activity_level": 1,
+            "sleep_hours": 11.0,
+            "stress_level": 2
+        },
+        "explanation": "This prediction was mainly influenced by low physical activity.",
+        "insight": "\n### AI Health Intelligence Report\n\nThe user is classified as **Low Risk** with a risk score of **12.00%**.\n\n### Main Risk Drivers\nThe most important detected factors are: **low physical activity**.\n\n### Personalized Prevention Focus\n- Increase daily movement gradually, starting with light walking.\n\n### Digital Twin Interpretation\nThis health snapshot should be stored as a Digital Health Twin timeline event. Future readings can be compared against this record to detect whether the user\u2019s risk is improving, worsening, or remaining stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 20:44:59",
+        "prediction": "High Risk",
+        "risk_score": 0.84,
+        "confidence": 0.84,
+        "patient_inputs": {
+            "age": 44,
+            "bmi": 25.0,
+            "blood_pressure": 128,
+            "glucose": 100,
+            "cholesterol": 185,
+            "activity_level": 2,
+            "sleep_hours": 5.5,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by low physical activity, poor sleep duration, high stress level.",
+        "insight": "\n### AI Health Intelligence Report\n\nThe user is classified as **High Risk** with a risk score of **84.00%**.\n\n### Main Risk Drivers\nThe most important detected factors are: **low physical activity, poor sleep duration, high stress level**.\n\n### Personalized Prevention Focus\n- Increase daily movement gradually, starting with light walking.\n- Improve sleep duration toward 7\u20138 hours.\n- Add stress-control habits like breathing breaks, journaling, or structured rest.\n\n### Digital Twin Interpretation\nThis health snapshot should be stored as a Digital Health Twin timeline event. Future readings can be compared against this record to detect whether the user\u2019s risk is improving, worsening, or remaining stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 21:25:31",
+        "prediction": "Low Risk",
+        "risk_score": 0.07,
+        "confidence": 0.93,
+        "patient_inputs": {
+            "age": 40,
+            "bmi": 28.0,
+            "blood_pressure": 125,
+            "glucose": 109,
+            "cholesterol": 180,
+            "activity_level": 4,
+            "sleep_hours": 9.49,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by high stress level.",
+        "insight": "\n### AI Health Intelligence Report\n\nThe user is classified as **Low Risk** with a risk score of **7.00%**.\n\n### Main Risk Drivers\nThe most important detected factors are: **high stress level**.\n\n### Personalized Prevention Focus\n- Add stress-control habits like breathing breaks, journaling, or structured rest.\n\n### Digital Twin Interpretation\nThis health snapshot is stored as a Digital Health Twin timeline event. Future readings can be compared against this record to detect whether the user's risk is improving, worsening, or remaining stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 21:42:31",
+        "prediction": "Low Risk",
+        "risk_score": 0.09,
+        "confidence": 0.91,
+        "patient_inputs": {
+            "age": 37,
+            "bmi": 29.04,
+            "blood_pressure": 125,
+            "glucose": 115,
+            "cholesterol": 190,
+            "activity_level": 4,
+            "sleep_hours": 9.49,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by high stress level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **Low Risk** category with a model-estimated risk score of **9.00%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **high stress level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by high stress level. The system is evaluating cardiovascular, metabolic, and lifestyle signals together rather than treating each value alone.\n\n### Personalized Focus Areas\n\n- **Stress Load Reduction:** Add structured rest, breathing breaks, journaling, or calm-screen time limits.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 21:42:35",
+        "prediction": "Low Risk",
+        "risk_score": 0.09,
+        "confidence": 0.91,
+        "patient_inputs": {
+            "age": 37,
+            "bmi": 29.04,
+            "blood_pressure": 125,
+            "glucose": 115,
+            "cholesterol": 190,
+            "activity_level": 4,
+            "sleep_hours": 9.49,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by high stress level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **Low Risk** category with a model-estimated risk score of **9.00%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **high stress level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by high stress level. The system is evaluating cardiovascular, metabolic, and lifestyle signals together rather than treating each value alone.\n\n### Personalized Focus Areas\n\n- **Stress Load Reduction:** Add structured rest, breathing breaks, journaling, or calm-screen time limits.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 21:43:26",
+        "prediction": "High Risk",
+        "risk_score": 0.795,
+        "confidence": 0.795,
+        "patient_inputs": {
+            "age": 37,
+            "bmi": 37.0,
+            "blood_pressure": 125,
+            "glucose": 134,
+            "cholesterol": 200,
+            "activity_level": 1,
+            "sleep_hours": 9.49,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by low physical activity, high bmi, high stress level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **High Risk** category with a model-estimated risk score of **79.50%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **low physical activity, high bmi, high stress level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by low physical activity, high bmi, high stress level. The system is evaluating cardiovascular, metabolic, and lifestyle signals together rather than treating each value alone.\n\n### Personalized Focus Areas\n\n- **Weight Risk Reduction:** Use gradual nutrition and movement improvements instead of aggressive short-term changes.\n- **Movement Upgrade:** Start with light daily walking or mobility blocks and increase consistency first.\n- **Stress Load Reduction:** Add structured rest, breathing breaks, journaling, or calm-screen time limits.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 21:50:15",
+        "prediction": "High Risk",
+        "risk_score": 0.84,
+        "confidence": 0.84,
+        "patient_inputs": {
+            "age": 35,
+            "bmi": 25.0,
+            "blood_pressure": 120,
+            "glucose": 156,
+            "cholesterol": 250,
+            "activity_level": 1,
+            "sleep_hours": 7.0,
+            "stress_level": 5
+        },
+        "explanation": "This prediction was mainly influenced by low physical activity, high cholesterol, high glucose level, high stress level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **High Risk** category with a model-estimated risk score of **84.00%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **low physical activity, high cholesterol, high glucose level, high stress level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by low physical activity, high cholesterol, high glucose level, high stress level. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Glucose Stability:** Monitor glucose patterns and reduce high-sugar foods.\n- **Lipid Health:** Focus on heart-friendly meals and track cholesterol over time.\n- **Movement Upgrade:** Start with light daily walking or mobility blocks.\n- **Stress Load Reduction:** Add structured rest, breathing breaks, or journaling.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "002",
+        "timestamp": "2026-06-17 21:56:31",
+        "prediction": "High Risk",
+        "risk_score": 0.765,
+        "confidence": 0.765,
+        "patient_inputs": {
+            "age": 44,
+            "bmi": 36.0,
+            "blood_pressure": 156,
+            "glucose": 145,
+            "cholesterol": 187,
+            "activity_level": 2,
+            "sleep_hours": 9.51,
+            "stress_level": 2
+        },
+        "explanation": "This prediction was mainly influenced by elevated blood pressure, low physical activity, high bmi, high glucose level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **High Risk** category with a model-estimated risk score of **76.50%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **elevated blood pressure, low physical activity, high bmi, high glucose level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by elevated blood pressure, low physical activity, high bmi, high glucose level. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Blood Pressure Control:** Repeat BP checks and reduce excess salt or processed food intake.\n- **Glucose Stability:** Monitor glucose patterns and reduce high-sugar foods.\n- **Weight Risk Reduction:** Use gradual nutrition and movement improvements.\n- **Movement Upgrade:** Start with light daily walking or mobility blocks.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "002",
+        "timestamp": "2026-06-17 21:57:30",
+        "prediction": "High Risk",
+        "risk_score": 0.765,
+        "confidence": 0.765,
+        "patient_inputs": {
+            "age": 44,
+            "bmi": 36.0,
+            "blood_pressure": 156,
+            "glucose": 145,
+            "cholesterol": 185,
+            "activity_level": 2,
+            "sleep_hours": 9.51,
+            "stress_level": 2
+        },
+        "explanation": "This prediction was mainly influenced by elevated blood pressure, low physical activity, high bmi, high glucose level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **High Risk** category with a model-estimated risk score of **76.50%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **elevated blood pressure, low physical activity, high bmi, high glucose level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by elevated blood pressure, low physical activity, high bmi, high glucose level. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Blood Pressure Control:** Repeat BP checks and reduce excess salt or processed food intake.\n- **Glucose Stability:** Monitor glucose patterns and reduce high-sugar foods.\n- **Weight Risk Reduction:** Use gradual nutrition and movement improvements.\n- **Movement Upgrade:** Start with light daily walking or mobility blocks.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "002",
+        "timestamp": "2026-06-17 21:58:05",
+        "prediction": "High Risk",
+        "risk_score": 0.54,
+        "confidence": 0.54,
+        "patient_inputs": {
+            "age": 25,
+            "bmi": 42.0,
+            "blood_pressure": 130,
+            "glucose": 146,
+            "cholesterol": 183,
+            "activity_level": 2,
+            "sleep_hours": 9.51,
+            "stress_level": 2
+        },
+        "explanation": "This prediction was mainly influenced by low physical activity, high bmi, high glucose level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **Moderate Watch** category with a model-estimated risk score of **54.00%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **low physical activity, high bmi, high glucose level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by low physical activity, high bmi, high glucose level. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Glucose Stability:** Monitor glucose patterns and reduce high-sugar foods.\n- **Weight Risk Reduction:** Use gradual nutrition and movement improvements.\n- **Movement Upgrade:** Start with light daily walking or mobility blocks.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "004",
+        "timestamp": "2026-06-17 21:59:28",
+        "prediction": "Low Risk",
+        "risk_score": 0.465,
+        "confidence": 0.535,
+        "patient_inputs": {
+            "age": 21,
+            "bmi": 29.0,
+            "blood_pressure": 87,
+            "glucose": 111,
+            "cholesterol": 195,
+            "activity_level": 1,
+            "sleep_hours": 8.91,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by low physical activity, high stress level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **Moderate Watch** category with a model-estimated risk score of **46.50%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **low physical activity, high stress level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by low physical activity, high stress level. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Movement Upgrade:** Start with light daily walking or mobility blocks.\n- **Stress Load Reduction:** Add structured rest, breathing breaks, or journaling.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 22:08:25",
+        "prediction": "Low Risk",
+        "risk_score": 0.03,
+        "confidence": 0.97,
+        "patient_inputs": {
+            "age": 35,
+            "bmi": 25.0,
+            "blood_pressure": 120,
+            "glucose": 100,
+            "cholesterol": 180,
+            "activity_level": 3,
+            "sleep_hours": 7.0,
+            "stress_level": 4
+        },
+        "explanation": "This prediction was mainly influenced by high stress level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **Low Risk** category with a model-estimated risk score of **3.00%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **high stress level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by high stress level. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Stress Load Reduction:** Add structured rest, breathing breaks, or journaling.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "001",
+        "timestamp": "2026-06-17 22:14:29",
+        "prediction": "Low Risk",
+        "risk_score": 0.015,
+        "confidence": 0.985,
+        "patient_inputs": {
+            "age": 35,
+            "bmi": 25.0,
+            "blood_pressure": 120,
+            "glucose": 100,
+            "cholesterol": 180,
+            "activity_level": 3,
+            "sleep_hours": 7.0,
+            "stress_level": 3
+        },
+        "explanation": "No major abnormal risk factors were detected.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **Low Risk** category with a model-estimated risk score of **1.50%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **no major abnormal risk drivers**.\n\n### Interpretation\n\nNo major abnormal risk factors were detected. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Maintain Stability:** Continue routine monitoring and healthy patterns.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    },
+    {
+        "user_id": "002",
+        "timestamp": "2026-06-17 22:21:19",
+        "prediction": "High Risk",
+        "risk_score": 0.955,
+        "confidence": 0.955,
+        "patient_inputs": {
+            "age": 36,
+            "bmi": 27.0,
+            "blood_pressure": 165,
+            "glucose": 133,
+            "cholesterol": 194,
+            "activity_level": 2,
+            "sleep_hours": 5.13,
+            "stress_level": 5
+        },
+        "explanation": "This prediction was mainly influenced by elevated blood pressure, low physical activity, poor sleep duration, high stress level.",
+        "insight": "\n### AI Health Intelligence Summary\n\nThe current Digital Health Twin snapshot places the user in the **High Risk** category with a model-estimated risk score of **95.50%**.\n\n### Risk Pattern Detected\n\nThe main detected drivers are: **elevated blood pressure, low physical activity, poor sleep duration, high stress level**.\n\n### Interpretation\n\nThis prediction was mainly influenced by elevated blood pressure, low physical activity, poor sleep duration, high stress level. The assistant evaluates cardiovascular, metabolic, and lifestyle signals together instead of looking at only one value.\n\n### Personalized Focus Areas\n\n- **Blood Pressure Control:** Repeat BP checks and reduce excess salt or processed food intake.\n- **Movement Upgrade:** Start with light daily walking or mobility blocks.\n- **Sleep Recovery:** Move toward 7\u20138 hours of sleep.\n- **Stress Load Reduction:** Add structured rest, breathing breaks, or journaling.\n\n### Digital Twin Meaning\n\nThis snapshot becomes part of the user's timeline. Future readings can show whether risk is improving, worsening, or staying stable.\n"
+    }
+]
